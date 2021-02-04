@@ -1,0 +1,7 @@
+{
+  "pdflatex-executable": "/Library/TeX/texbin/pdflatex",
+  "preamble": "/Users/hasanabbas/Library/Application Support/org.inkscape.Inkscape/config/inkscape/extensions/inkscapeMadeEasy/basicLatexPackages.tex",
+  "scale": 1.0,
+  "previous_tex_command": "pdflatex",
+  "gui": {}
+}
